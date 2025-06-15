@@ -40,8 +40,3 @@ Notes:
 - FLAN-T5 generally provides the most faithful and fluent summaries.
 - GPU usage is recommended for training.
 - This solution can be extended for real-time transcription with additional speech-to-text integration.
-
-Contact:
-Harsh Shah
-Stevens Institute of Technology
-hshah70@stevens.edu
