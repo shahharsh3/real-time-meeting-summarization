@@ -2,7 +2,9 @@
 Real-Time Meeting Summarization
 --------------------------------------------------
 
-This project implements a real-time dialogue summarization system for meeting transcripts using transformer-based models such as BART, T5-small, and FLAN-T5-base. It preprocesses multi-speaker dialogues and generates concise, abstractive summaries suitable for note-taking and productivity tools.
+This project implements a real-time dialogue summarization system for meeting transcripts using transformer-based models such as BART, 
+T5-small, and FLAN-T5-base. It preprocesses multi-speaker dialogues and generates concise, 
+abstractive summaries suitable for note-taking and productivity tools.
 
 Project Structure:
 - data-preprocessing.ipynb      : Data cleaning, formatting, spell correction
